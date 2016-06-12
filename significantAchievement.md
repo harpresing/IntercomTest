@@ -1,0 +1,7 @@
+### My Proudest Achievement 
+
+My undergraduate degree was a mix of Physics, Maths and Computer Science. Although my undergraduate project involved coding an Arduino Robot, I got an in-depth exposure to programming during my Master's degree at Trinity. At Trinity, during the first semester, I had to program a [Peer-to-Peer Chat Server](https://github.com/omnigrass/P2PChatServer) based on the [pastry](https://en.wikipedia.org/wiki/Pastry_(DHT)) protocol for one of the modules. I had only programmed before in Java and C++ so I saw this project as an opportunity to learn a new programming language, that's why I chose to do it in Ruby.  
+
+It was quite overwhelming at first, however, soon I began to enjoy the cycle of coding, testing and debugging. I used github for source control which was also new to me. Now, I can't imagine living without github! This project made me use the techonlogies that a developer has to work with everyday. It was the gateway drug, that introduced me to the real world of professional programming. 
+
+I enjoyed using Ruby because of it's clear cut syntax and its great package management system. The confidence that I got from this project encouraged me to learn new technologies and now I have undertaken quite a few projects using programming languages that I'm not familiar with, which has made me grow into a more well rounded Software Developer.

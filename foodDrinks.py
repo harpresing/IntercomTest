@@ -7,7 +7,7 @@ import json
 import math
 
 
-class IntercomLunch():
+class IntercomfoodDrinks():
 
 	intercomLat = math.radians(53.3381985)
 	intercomLon = math.radians(-6.2592576)
@@ -53,7 +53,7 @@ class IntercomLunch():
 			print i['user_id'], i['name'] 
 
 if __name__ == '__main__': 
-	ob = IntercomLunch()
+	ob = IntercomfoodDrinks()
 	fileName = 'customers.json'  # Change the filename here to use a different file
 	ob.printCustomersToInvite(fileName)
 
